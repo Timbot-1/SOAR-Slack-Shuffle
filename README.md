@@ -1,7 +1,10 @@
 # SOAR-Slack-Shuffle
-A VirtualBox laboratory that orchestrates an automated response to an external attacker 
+A VirtualBox laboratory that orchestrates an automated response to an external attacker.
+
 MyDFIR Server 2022 Active Directory Installation/Attack response automation Project 2.0
+
 https://www.youtube.com/watch?v=1nX6_Nlly-4&t=173s 
+
 In this demonstration I will simulate an attack in which stolen valid credentials are used for successful login and configure servers to execute an automated response to the login. The SOC analyst will receive an instant warning of the intrusion and remotely disable the account via the Slack and Shuffle services. 
 
 All hail MyDFIR for the guidance here, and for the best damn videos on YouTube! Steven, THANKS, you are an oasis of calm understanding and encouragement for so many. I have learned a lot from this one project; it is a really good introduction.  
